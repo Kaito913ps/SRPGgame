@@ -1483,6 +1483,10 @@ PrefabInstance:
       value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
+      propertyPath: _skill
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
       propertyPath: attribute
       value: 3
       objectReference: {fileID: 0}
@@ -1861,6 +1865,10 @@ PrefabInstance:
     - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
       propertyPath: _maxHP
       value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
+      propertyPath: _skill
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
       propertyPath: moveType
@@ -2399,7 +2407,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
-  field of view: 60
+  field of view: 81.1
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -5107,6 +5115,10 @@ PrefabInstance:
     - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
       propertyPath: _maxHP
       value: 30
+      objectReference: {fileID: 0}
+    - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
+      propertyPath: _skill
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4520125742844161785, guid: 79b5f62463807f147884339f9bcfaafb, type: 3}
       propertyPath: moveType
